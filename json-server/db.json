@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "lastName": "Trump",
+      "firstName": "Donald"
+    },
+    {
+      "id": "2",
+      "lastName": "Biden",
+      "firstName": "Joe"
+    }
+  ],
+  "posts": [{
+    "authorId": "1",
+    "title": "Quote of the day",
+    "content": "A great day for America"
+  }
+ ]
+}
