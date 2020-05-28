@@ -72,8 +72,8 @@ Modify the **package.json** file as follow:
     "build": "**npm run build:css &&** react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    **"build:css": "postcss src/assets/tailwind.css -o src/assets/main.css",** 
-    **"watch:css": "postcss src/assets/tailwind.css -o src/assets/main.css"**
+    "build:css": "postcss src/assets/tailwind.css -o src/assets/main.css",
+    "watch:css": "postcss src/assets/tailwind.css -o src/assets/main.css"
   },
 ```
 
