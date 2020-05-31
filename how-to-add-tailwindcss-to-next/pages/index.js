@@ -1,4 +1,3 @@
-/* import "../styles/index.css" */
 
 export default () => (
   <div className="tp4 shadow rounded bg-white">
